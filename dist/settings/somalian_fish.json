@@ -1,0 +1,28 @@
+{
+    "symsCount": 10,
+    "gameAlias": "somalian_fish",
+    "gameName": "revoltex:Somalian Fish",
+    "imagePath": "assets/images/",
+    "reels": {
+        "reelsCount": 5,
+        "symsCount": 5,
+        "width": 0.901,
+        "height": 0.7,
+        "offsetX": 0.5,
+        "offsetY": 0.49,
+        "mask": {
+            "width": 0.885,
+            "height": 0.7,
+            "offsetX": 0.5,
+            "offsetY": 0.49
+        },
+        "border": {
+            "width": 0.895,
+            "height": 0.722,
+            "offsetX": 0.5,
+            "offsetY": 0.49
+        }
+    },
+    "border": "rect_blue.png",
+    "symBg": true
+}

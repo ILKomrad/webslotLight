@@ -1,0 +1,41 @@
+{
+    "symsCount": 9,
+    "gameAlias": "pedros farm",
+    "gameName": "revoltex:Pedros Farm",
+    "imagePath": "assets/images/",
+    "reels": {
+        "reelsCount": 5,
+        "symsCount": 5,
+        "width": 0.659,
+        "height": 0.588,
+        "offsetX": 0.5,
+        "offsetY": 0.524,
+        "mask": {
+            "width": 0.646,
+            "height": 0.588,
+            "offsetX": 0.5,
+            "offsetY": 0.524
+        },
+        "border": {
+            "width": 0.646,
+            "height": 0.604,
+            "offsetX": 0.5,
+            "offsetY": 0.524
+        }
+    },
+    "effectsList": [
+      {
+        "name": "animate",
+        "duration": 2500,
+        "async": false
+      },
+      {
+        "name": "bmwin",
+        "duration": 2500,
+        "big": true,
+        "async": true
+      }
+    ],
+    "border": "rect.png",
+    "symBg": true
+}

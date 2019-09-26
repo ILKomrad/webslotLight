@@ -1,0 +1,27 @@
+{
+    "symsCount": 7,
+    "gameAlias": "pina collada",
+    "gameName": "revoltex:Pina Colada",
+    "reels": {
+        "reelsCount": 5,
+        "symsCount": 5,
+        "width": 0.79,
+        "height": 0.7,
+        "offsetX": 0.5,
+        "offsetY": 0.493,
+        "mask": {
+            "width": 0.79,
+            "height": 0.7,
+            "offsetX": 0.5,
+            "offsetY": 0.493
+        },
+        "border": {
+            "width": 0.8,
+            "height": 0.715,
+            "offsetX": 0.5,
+            "offsetY": 0.493
+        }
+    },
+    "border": "rect_blue.png",
+    "symBg": false
+}
